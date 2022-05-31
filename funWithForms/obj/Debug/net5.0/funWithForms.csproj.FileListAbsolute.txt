@@ -1,0 +1,16 @@
+C:\Users\macie\source\repos\funWithForms\funWithForms\bin\Debug\net5.0\funWithForms.exe
+C:\Users\macie\source\repos\funWithForms\funWithForms\bin\Debug\net5.0\funWithForms.deps.json
+C:\Users\macie\source\repos\funWithForms\funWithForms\bin\Debug\net5.0\funWithForms.runtimeconfig.json
+C:\Users\macie\source\repos\funWithForms\funWithForms\bin\Debug\net5.0\funWithForms.runtimeconfig.dev.json
+C:\Users\macie\source\repos\funWithForms\funWithForms\bin\Debug\net5.0\funWithForms.dll
+C:\Users\macie\source\repos\funWithForms\funWithForms\bin\Debug\net5.0\ref\funWithForms.dll
+C:\Users\macie\source\repos\funWithForms\funWithForms\bin\Debug\net5.0\funWithForms.pdb
+C:\Users\macie\source\repos\funWithForms\funWithForms\obj\Debug\net5.0\funWithForms.csproj.AssemblyReference.cache
+C:\Users\macie\source\repos\funWithForms\funWithForms\obj\Debug\net5.0\funWithForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macie\source\repos\funWithForms\funWithForms\obj\Debug\net5.0\funWithForms.AssemblyInfoInputs.cache
+C:\Users\macie\source\repos\funWithForms\funWithForms\obj\Debug\net5.0\funWithForms.AssemblyInfo.cs
+C:\Users\macie\source\repos\funWithForms\funWithForms\obj\Debug\net5.0\funWithForms.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\funWithForms\funWithForms\obj\Debug\net5.0\funWithForms.dll
+C:\Users\macie\source\repos\funWithForms\funWithForms\obj\Debug\net5.0\ref\funWithForms.dll
+C:\Users\macie\source\repos\funWithForms\funWithForms\obj\Debug\net5.0\funWithForms.pdb
+C:\Users\macie\source\repos\funWithForms\funWithForms\obj\Debug\net5.0\funWithForms.genruntimeconfig.cache
