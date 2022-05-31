@@ -25,6 +25,5 @@ namespace funWithForms
             if (education < 3) listOfErrors.Add(Fails[5]);
             return new Work(firstName, lastName, listOfErrors, age, gender, education);
         }
-        
     }
 }

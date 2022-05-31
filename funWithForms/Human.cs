@@ -37,9 +37,8 @@ namespace funWithForms
         }
         public virtual void Check(string firstName, string lastName, List<string> listOfErrors)
         {
-            
             if (!ValidateValues.CheckName(firstName, 5)) listOfErrors.Add(Fails[0]);
             if (!ValidateValues.CheckName(lastName, 7)) listOfErrors.Add(Fails[1]);
         }
-        
-}}
+}
+}

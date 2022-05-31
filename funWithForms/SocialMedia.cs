@@ -10,7 +10,6 @@ namespace funWithForms
     {
         public int Age { get; set; }
         public string Email { get; set; }
-
         public SocialMedia(string firstName, string lastName, List<string> listOfErrors, int age, string email)
         :base(firstName,lastName, listOfErrors)
         {

@@ -34,7 +34,6 @@ namespace funWithForms
         }
         public static bool CheckEmail(string email)
         {
-
             return Regex.IsMatch(email,
                     @"^[^@\s]+@[^@\s]+\.[^@\s]+$",
                     RegexOptions.IgnoreCase, TimeSpan.FromMilliseconds(250));
