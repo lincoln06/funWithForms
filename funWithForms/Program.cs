@@ -13,7 +13,10 @@ namespace funWithForms
         };
         static void Main()
         {
-
+            Console.WriteLine("AUTOR: MACIEJ JANTA-LIPIŃSKI\tINF I NS\n\n");
+            Console.WriteLine("Naciśnij dowolny klawisz aby rozpocząć...");
+            Console.ReadKey();
+            Console.Clear();
             int choose = 0;
             while (choose < 1 || choose > 3)
             {
@@ -39,6 +42,7 @@ namespace funWithForms
             }
             Console.WriteLine("Naciśnij dowolny klawisz aby wyświetlić log...\n\n");
             Console.ReadKey();
+            Console.Clear();
             ShowLog(log);
             Console.ReadKey();
         }
